@@ -1,0 +1,27 @@
+{
+  "name": "DDLogLib",
+  "version": "0.0.1",
+  "summary": "A short description of DDLogLib.",
+  "description": "A longer description of DDLogLib in Markdown format.\n\n* Think: Why did you write this? What is the focus? What does it do?\n* CocoaPods will be using this to generate tags, and improve search results.\n* Try to keep it short, snappy and to the point.\n* Finally, don't worry about the indent, CocoaPods strips it!",
+  "homepage": "http://EXAMPLE/DDLogLib",
+  "license": "MIT (example)",
+  "authors": {
+    "hu5675": "hu5675@126.com"
+  },
+  "source": {
+    "git": "http://EXAMPLE/DDLogLib.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "DDLogLib",
+    "DDLogLib/**/*.{h,m}"
+  ],
+  "exclude_files": "DDLogLib/Exclude",
+  "public_header_files": "DDLogLib/**/*.h",
+  "resources": "DDLogLib/Resources/*.png",
+  "dependencies": {
+    "CocoaLumberjack": [
+
+    ]
+  }
+}
